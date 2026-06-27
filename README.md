@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="" width="30px">, I am <a href="https://www.linkedin.com/in/carlos-qui%C3%B1ones-/">Charles Quinn</a> </h1>
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/CharlesQuinnDev/CharlesQuinnDev/blob/main/header.png"></p>
 
 <h1 align="center">About me </h1>
 
